@@ -1,0 +1,27 @@
+.main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.text-centre {
+    text-align: center;
+    color: rgb(65, 25, 25);
+}
+.container {
+    height: 70vh;
+    width: 50vh;
+    text-align: center;
+    background-color: aqua;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.input {
+    margin-top: 4vh;
+    margin-bottom: 8vh;
+    width: 40vh;
+    height: 7vh;
+    font-size: 1.5rem;
+    border-radius: 10px;
+}
